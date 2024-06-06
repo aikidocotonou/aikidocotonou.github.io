@@ -1,0 +1,111 @@
+[class="row"] {
+ margin:0px;
+}
+h1{
+width: 100%;
+margin-left: 10px;
+border: 0px solid #000;
+margin-top: 25px;
+font: lighter 2.6em "Optima LT Std",Arial,Verdana,Helvetica,sans-serif;
+color: #236575;
+text-shadow: 2px 2px 6px #333;
+}
+ul li a{
+background: none repeat scroll 0% 0% #004454;
+font: bold 14px "Lucida Grande","Trebuchet MS",Verdana,Helvetica,sans-serif;
+color: #FFF;	
+}
+ul li a:hover{
+background: none repeat scroll 0% 0% #004454;
+}
+.submenu{ /*DIV that contains each sub menu*/
+background: white;
+}
+
+.submenu ul{ /*UL of each sub menu*/
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.submenu ul li{
+border-bottom: 1px solid #004454;
+}
+.submenu ul li a{
+display: block;
+font: normal 13px "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+color: black;
+text-decoration: none;
+padding: 2px 0;
+padding-left: 10px;
+background:#fff;
+}
+
+.submenu ul li a:hover{
+background: #DFDCCB;
+colorz: white;
+}
+.holder a {
+    font-size: 12px;
+    cursor: pointer;
+    margin: 0 5px;
+    color: #333;
+	background: #fff;
+  }
+
+  .holder a:hover {
+    background-color: #222;
+    color: #fff;
+  }
+
+  .holder a.jp-previous { margin-right: 15px; }
+  .holder a.jp-next { margin-left: 15px; }
+
+  .holder a.jp-current, a.jp-current:hover {
+    color: #FF4242;
+    font-weight: bold;
+  }
+
+  .holder a.jp-disabled, a.jp-disabled:hover {
+    color: #bbb;
+  }
+  .nvg{
+	margin-top:2%;
+  }
+  .nvg a{
+	background:#fff;
+	color:black;
+  }
+  .nvg a:hover{
+	background:#fff;
+  }
+
+  .holder a.jp-current, a.jp-current:hover,
+  .holder a.jp-disabled, a.jp-disabled:hover {
+    cursor: default;
+    background: none;
+  }
+
+  .holder span { margin: 0 5px; }
+.tabe{ border:1px solid black;}
+
+/*
+     FILE ARCHIVED ON 14:35:09 Aug 31, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:49:44 Jun 05, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.648
+  exclusion.robots: 0.079
+  exclusion.robots.policy: 0.071
+  esindex: 0.011
+  cdx.remote: 18.62
+  LoadShardBlock: 408.975 (3)
+  PetaboxLoader3.datanode: 111.975 (5)
+  PetaboxLoader3.resolve: 482.862 (3)
+  load_resource: 249.789 (2)
+*/
